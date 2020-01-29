@@ -50,7 +50,7 @@ export default class Pallette extends Component {
         const items = this.renderItems(photos);
         
         return (
-            <div className="pallette">
+            <div className="palette">
                 {items}
             </div>
         )
