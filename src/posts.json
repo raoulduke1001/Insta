@@ -19,12 +19,12 @@
             "id": "2"
         },
         {
-            "name": "petrychenko_ivan",
-            "altname": "Ivan",
-            "photo": "https://scontent-arn2-2.cdninstagram.com/vp/9d73bf6b10ad824de2ae7967bdaf3e28/5D6439C8/t51.2885-19/s150x150/32709032_195146804461686_2087604678543015936_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com",
-            "src": "https://scontent-arn2-2.cdninstagram.com/vp/5eaed9d4cff5a383ac4268734ab83db4/5D5EB16E/t51.2885-15/e35/52364169_313103329348388_2352836595513722142_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com",
-            "alt": "Tech photo",
-            "descr": "Real photo from instagram",
+            "name": "Aks_Luba",
+            "altname": "Lyuba",
+            "photo": "https://24smi.org/public/media/celebrity/2019/09/23/edgentv2zuld-liubov-aksenova.jpg",
+            "src": "https://avatars.mds.yandex.net/get-zen_doc/229614/pub_5d29deccc0dcf200ae4e43ba_5d29df280aca0500af4933a1/scale_1200",
+            "alt": "The most beautiful",
+            "descr": "love it",
             "id": "3"
         },
         {
@@ -53,6 +53,15 @@
             "alt": "Smoothie",
             "descr": "Hello! If you want to drink some delicious smoothies - just call me!",
             "id": "6"
+        },
+{
+            "name": "heartbreaker",
+            "altname": "heart",
+            "photo": "https://img.tsn.ua/cached/1558519779/tsn-3d89b48abea265f94b95dc0c555f69d9/thumbs/x/6e/03/cef145144800a21677f5017e25f1036e.jpeg",
+            "src": "https://4.bp.blogspot.com/-Pa8VCNrwOcs/WibhsChDTOI/AAAAAAAAFOc/RZe71C_g2k8Jh2OPQw8u3hXnj1ZsBiaBACLcBGAs/s640/1481921087-hbz-josephine-skriver-2-index.jpg",
+            "alt": "Wowww",
+            "descr": "Victoria Secret",
+            "id": "7"
         }
     ]
 }
